@@ -1,3 +1,4 @@
+This tool is for educational and personal use only. Web scraping should be done responsibly and in accordance with the target website's Terms of Service and robots.txt file. The authors are not responsible for any misuse of this tool.
 # 🚀 LinkedIn Job Scraper - AI Powered Job Search
 
 A modern, full-stack web application that scrapes LinkedIn jobs and uses AI to match them with your preferences. Built with Node.js, Playwright, Gemma AI, and a beautiful glassmorphism UI.
